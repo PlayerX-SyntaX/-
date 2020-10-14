@@ -1,0 +1,9 @@
+apt-cache search gsm
+
+apt install gr-gsm gsm-utils gsm0710muxd gsmartcontrol gsmc libdevice-gsm-perl libgsm-tools 
+apt install libgsm1 libgsm1-dev libgsmme1v5 libgsmsd8 libosmo-abis-dev libosmo-netif-dev libosmo-sccp-dev 
+apt install libosmoabis6 libosmocodec0 libosmocoding0 libosmocore-utils libosmogsm-doc libosmogsm10 libosmonetif6 
+apt install libosmosccp0 libosmotrau2 libosmoxua0 osmocom-nitb osmocom-bsc osmo-trx 
+
+apt-cache search network
+apt conserver-client
